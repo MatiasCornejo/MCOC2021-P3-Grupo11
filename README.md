@@ -20,6 +20,9 @@ c)Verificacion equilibrio
 
 Para hacer esta verificacion lo que se realizo fue encontrar todas las rutas posibles que se pueden hacer segun la direccion del sentido del sistema y ver cada arco de cada ruta tomada e ir sumando el arco correspondiente a cada ruta.
 
+A continuación se puede apreciar una comparacion entre el resultado que nos entrega la pauta y la verificacion explicada anteriormente la cual se realizo via python la cual nos entrega los siguientes resultados.
+
+
 ![image](https://user-images.githubusercontent.com/62267612/142127162-9aa92dd8-e269-49e1-a6a5-aa78f2c38986.png)
 
 ![image](https://user-images.githubusercontent.com/62267612/142127533-2c39edaa-15a8-4501-b9dc-00a9a969d64b.png)
@@ -28,7 +31,7 @@ Para hacer esta verificacion lo que se realizo fue encontrar todas las rutas pos
 
 
 
-A continuación se puede apreciar una comparacion entre el resultado que nos entrega la pauta y la verificacion explicada anteriormente la cual se realizo via python la cual nos entrega los siguientes resultados.
+
 
 
 Entrega2 ( P3E1)
