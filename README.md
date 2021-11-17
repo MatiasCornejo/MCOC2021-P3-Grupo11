@@ -30,6 +30,8 @@ A continuación se puede apreciar una comparacion entre el resultado que nos ent
 ![image](https://user-images.githubusercontent.com/62267612/142127557-e909718e-eb18-4a86-b7f5-46792784a316.png)
 
 
+Como se puede apreciar se nota una diferencia centecimal entre los resultados entregados en la pauta y los entregados en python, esto se debe a que para las funciones que se utilizaron para realizar el equilibrio de Wardrop se asumio una forma en donde la demananda se iba restando de 1 unidad en 1 lo cual hace que el problema no decremente de manera proporcional a la demanda arrojandonos esta minima diferencia reflejada.
+
 
 
 
