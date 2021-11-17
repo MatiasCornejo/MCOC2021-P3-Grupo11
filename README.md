@@ -22,41 +22,10 @@ Para hacer esta verificacion lo que se realizo fue encontrar todas las rutas pos
 
 ![image](https://user-images.githubusercontent.com/62267612/142127162-9aa92dd8-e269-49e1-a6a5-aa78f2c38986.png)
 
+![image](https://user-images.githubusercontent.com/62267612/142127533-2c39edaa-15a8-4501-b9dc-00a9a969d64b.png)
 
+![image](https://user-images.githubusercontent.com/62267612/142127557-e909718e-eb18-4a86-b7f5-46792784a316.png)
 
-par OD : A C costo = 37.1125
-par OD : A C costo = 37.3875
-par OD : A C costo = 81.925
------------------------------------------------
-par OD : A D costo = 63.88333333333333
------------------------------------------------
-par OD : A E costo = 76.4875
-par OD : A E costo = 76.50833333333333
-par OD : A E costo = 76.7625
-par OD : A E costo = 76.78333333333333
-par OD : A E costo = 121.3
-par OD : A E costo = 121.32083333333333
-par OD : A E costo = 121.32083333333333
------------------------------------------------
-par OD : B C costo = 15.879166666666666
-par OD : B C costo = 60.416666666666664
------------------------------------------------
-par OD : B D costo = 42.375
------------------------------------------------
-par OD : C E costo = 39.375
-par OD : C E costo = 39.395833333333336
------------------------------------------------
-par OD : C G costo = 18.145833333333336
------------------------------------------------
-par OD : D C costo = 18.041666666666664
------------------------------------------------
-par OD : D E costo = 57.416666666666664
-par OD : D E costo = 57.4375
-par OD : D E costo = 57.4375
------------------------------------------------
-par OD : D G costo = 36.1875
-par OD : D G costo = 36.1875
------------------------------------------------
 
 
 A continuación se puede apreciar una comparacion entre el resultado que nos entrega la pauta y la verificacion explicada anteriormente la cual se realizo via python la cual nos entrega los siguientes resultados.
